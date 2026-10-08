@@ -38,5 +38,23 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #dbdbdb;
 }
+
+/* App.css */
+
+.app {
+  padding: 20px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dark {
+  background-color: rgb(39, 34, 34);
+  color: rgb(5, 5, 5);
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
